@@ -122,3 +122,20 @@
     margin-left: 27cm;
     margin-top: -8cm;
 }
+
+
+#bar {
+    background-color: white;
+    max-height: 3cm;
+    max-width: 30cm;
+    margin-left: 25cm;
+    position: fixed;
+    margin-top: -6cm;
+    font-size: 30px;
+
+}
+
+ul>li {
+    display: inline-flex;
+    text-align: justify;
+}
