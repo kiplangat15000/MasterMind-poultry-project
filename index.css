@@ -139,3 +139,18 @@ ul>li {
     display: inline-flex;
     text-align: justify;
 }
+
+#bar>ul>li {
+    margin-right: 1cm;
+}
+
+#bar a:hover {
+    background-color: darkviolet;
+    color: blue;
+    transition: 5sec;
+}
+
+#homep a:hover {
+    background-color: rgb(150, 150, 150);
+    color: black;
+}
