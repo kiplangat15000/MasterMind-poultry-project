@@ -32,3 +32,25 @@
     color: honeydew;
     font-size: 35px;
 }
+#welcimg {
+    background-image: url(./images/daniel-tuttle--IHUF0jIey4-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 4cm;
+    text-align: center;
+    margin-left: 8cm;
+    margin-top: 3cm;
+}
+
+#welcp {
+    border: 1cm;
+    max-width: 12cm;
+    max-height: 22cm;
+    margin-left: 23cm;
+    text-align: right;
+    color: black;
+    font-size: 35px;
+    margin-top: -6cm;
+}
