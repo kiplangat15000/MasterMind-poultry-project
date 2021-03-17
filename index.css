@@ -75,3 +75,50 @@
     margin-right: 1cm;
     background-color: rgb(243, 203, 203);
 }
+
+#gal1 {
+    background-image: url(./images/jonathan-cooper-XRKjBUWaj-A-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 1cm;
+    background-position: center center;
+}
+
+
+#gal2 {
+    background-image: url(./images/william-moreland-auijD19Byq8-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    margin-left: 8cm;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 14cm;
+    margin-top: -8cm;
+    background-position: center center;
+}
+
+
+#gal3 {
+    background-image: url(./images/jed-owen-aIn2wl7Lixc-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    margin-left: 8cm;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 27cm;
+    margin-top: -8cm;
+}
