@@ -54,3 +54,24 @@
     font-size: 35px;
     margin-top: -6cm;
 }
+
+
+#welcome {
+    width: 40cm;
+    border: 1px;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 2cm;
+}
+
+#gallery{
+    display: inline-block;
+    width: 40cm;
+    height: 10cm;
+    border: 1px;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 2.5cm;
+    margin-right: 1cm;
+    background-color: rgb(243, 203, 203);
+}
