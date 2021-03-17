@@ -1,0 +1,257 @@
+.header{
+  overflow: hidden;
+  padding: 20px 20px;
+  background-color: whitesmoke;
+}
+.header a{
+  float: left;
+  color: #222629;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.header a.logo{
+  font-size: x-large;
+  font-family: Georgia;
+  font-weight: bold;
+}
+.header a:hover{
+  background-color: lightgray;
+}
+.header a.active{
+  background-color: lightseagreen;
+  color:white;
+}
+.headerright{
+  float: right;
+}
+html{
+  background-color:#222629;
+  color:whitesmoke;
+}
+.intro{
+  justify-content: center;
+}
+h1, h2{
+  text-align:center;
+  text-decoration: underline;
+  margin-left: auto;
+  margin-right: auto;
+}
+#text1{
+  box-sizing: border-box;
+  border: 2px solid #66fcf1;
+  width: 570px;
+  height: 220px;
+  background-color:lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#text2{
+  box-sizing: border-box;
+  border: 2px solid #66fcf1;
+  width: 570px;
+  height: 220px;
+  background-color:lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+#text3{
+  box-sizing: border-box;
+  border: 2px solid #66fcf1;
+  width: 570px;
+  height: 220px;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.leghorn>img{
+  width: 570px;
+  margin-top: 100px;
+  height: 500px;
+}
+.rhodeisland{
+  float: right;
+  position: relative;
+  bottom: 730px;
+  
+  
+}
+.rhodeisland>img{
+  width:570px;
+  height: 500px;
+}
+.plymouthrock{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.newborn{
+  text-align: center;
+  position: relative;
+  bottom: 500px;
+  clear: both;
+}
+.dayoldchicks{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  bottom: 500px;
+  margin: 60px;
+}
+#chick1>img{
+  width: 400px;
+}
+#chick2>img{
+  width: 400px;
+}
+#chick3>img{
+  width: 400px;
+}
+#chick1>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 400px;
+}
+#chick2>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 400px;
+}
+#chick3>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 400px;
+}
+.prod{
+  text-align: center;
+  position: relative;
+  bottom: 500px;
+  clear: both;
+}
+#eggs>img{
+  width: 600px;
+}
+.products{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  position: relative;
+  bottom: 400px;
+}
+#eggs>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto; 
+}
+#gizzards>img{
+  width: 700px;
+}
+
+
+#manure>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 700px;
+  
+}
+.byproducts{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  bottom: 200px;
+  margin: 10px;
+}
+  
+#manure>img{
+  width: 700px;
+  height: 450px;
+}
+  
+  
+#gizzards>p{
+  box-sizing: border-box;
+  border:2px solid #66fcf1;
+  background-color: lightgoldenrodyellow;
+  color: #222629;
+  box-shadow: 2px 2px 5px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  width: 700px; 
+}
+.footer{
+  overflow: hidden;
+  padding: 20px 20px;
+  background-color: whitesmoke;
+}
+.footer a{
+  float: left;
+  color: #222629;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.footer a.logo{
+  font-size: x-large;
+  font-family: Georgia;
+  font-weight: bold;
+}
+.footer a:hover{
+  background-color: lightgray;
+}
+.footer a.active{
+  background-color: lightseagreen;
+  color:white;
+}
+.footerright{
+  float: right;
+}
